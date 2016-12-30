@@ -29,6 +29,13 @@ overs JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, And
 # IntelliJ
 /out/
 
+# OSX files
+.DS_Store
+# Windows files
+Thumbs.db
+# vi swap files
+*.swp
+
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
